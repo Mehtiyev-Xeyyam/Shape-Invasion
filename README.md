@@ -1,11 +1,16 @@
 # Shape-Invasion
 Shapes spawning and coming towards you and the turret in the middle kills them by the time you upgrade your turret
 
+
+
+
 The Turret 
 -
   turret has 2 modes. Bullet and Laser
   it switches automatically when reached current kill for some time and then returs to turret again
   turret shoots enemies automatically but you can shoot them by hand while touching to screen. it changes target after shooting enough bullet to enemy even if the      bullets are not hit yet if the bullet count is enough it switches the target.
+
+
 
 
 Enemy types 
@@ -14,6 +19,9 @@ Enemy types
   triangles have low hp generally compared to squares but they are fast. and spawners come to certain distance then stop and spawn triangles.
 
 the spawning is random and hps are random the game gets difficult as time passes. and you also get stronger. 
+
+
+
 
 There are great scripts you can take and use in your project/game or enhance the project and publish it
 -

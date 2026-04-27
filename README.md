@@ -34,5 +34,5 @@ Bad sides
   currency is not set.
   nearly everything is random 
 
-if you are using it or taking a script notifying me or leaving a mark would be great. i would know this game is useful for someone
+if you are using it or taking a script notifying me or leaving a mark would be great. i would know this game is useful for someone :)
 -
